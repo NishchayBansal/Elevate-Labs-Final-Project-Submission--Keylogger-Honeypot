@@ -1,6 +1,8 @@
 # Elevate-Labs-Final-Project-Submission---Keylogger
 
-**3. Keylogger with Encrypted Data Exfiltration**       
+## Educational Purposes Only
+
+**Keylogger with Encrypted Data Exfiltration**       
 **Objective:** Build a proof-of-concept keylogger that encrypts logs and simulates exfiltration.    
 
 **Tools:** Python, pynput, cryptography, base64     
